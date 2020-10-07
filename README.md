@@ -1,2 +1,3 @@
-<img src="./alarm.JPG">
-<img src="./main.JPG">
+<img src="./alarm.jpg">
+<img src="./main.jpg">
+사진들
